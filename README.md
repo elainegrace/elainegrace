@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elainegrace
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning UI/UX Design
-- 📫 Reach me at: www.linkedin.com/in/elaine-bayhon-b74997198
+- 📫 Reach me at: www.linkedin.com/in/elaine-bayhon
