@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elainegrace
-- 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning UI/UX Design
+- 👀 I'm a UI/UX Designer
+- 🌱 Transitioning into Data Analysis
 - 📫 Reach me at: www.linkedin.com/in/elaine-bayhon
