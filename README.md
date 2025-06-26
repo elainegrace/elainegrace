@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elainegrace
-- 👀 I'm a UI/UX Designer
+- 👀 A UX designer with 3+ years of experience
 - 🌱 Transitioning into Data Analysis
 - 📫 Reach me at: www.linkedin.com/in/elaine-bayhon
