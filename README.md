@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elainegrace
 - 👀 A UX designer with 3+ years of experience
-- 🌱 Transitioning into Data Analysis [Excel, Power BI, SQL, Python]
+- 🌱 Transitioning into Data [Excel, Power BI, SQL, Python]
 - 📫 Reach me at: www.linkedin.com/in/elaine-bayhon
